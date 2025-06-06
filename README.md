@@ -14,6 +14,7 @@
         <p>
             <a href="https://de.linkedin.com/in/jan-eike-andresen" target="_blank" rel="noopener" itemprop="sameAs">LinkedIn</a> | 
             <a href="https://www.crunchbase.com/person/jan-eike-andresen" target="_blank" rel="noopener" itemprop="sameAs">Crunchbase</a> | 
+            <a href="https://www.wikidata.org/wiki/Q134294901" target="_blank" rel="noopener" itemprop="sameAs">Wikidata</a> | 
             <a href="https://orcid.org/0009-0004-9176-4053" target="_blank" rel="noopener" itemprop="sameAs">ORCID</a>
         </p>
     </div>
