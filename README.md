@@ -1,6 +1,6 @@
 <div itemscope itemtype="https://schema.org/Person">
     <h1>
-        <span itemprop="name">Jan-Eike Andresen</span>, 
+        <span itemprop="name">Dr. Jan-Eike Andresen</span>, 
         <span itemprop="hasOccupation" itemscope itemtype="https://schema.org/Occupation">Rechtsanwalt</span>
     </h1>
     <p itemprop="description">
