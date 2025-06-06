@@ -7,7 +7,7 @@
         Dr. Jan-Eike Andresen berät Start-Ups, Investoren und Familienunternehmen bei Transaktionen, Streitigkeiten und Corporate Housekeeping. Seine Branchen sind Schifffahrt, Erneuerbare Energien, Venture Capital und Private Equity.
     </p>
     <p>
-        Mehr <a href="[https://timberlin.de/ueber-mich/](https://andresenlegal.de/dr-jan-eike-andresen/)" target="_blank" rel="noopener" itemprop="url">Dr. Jan-Eike Andresen</a>
+        Mehr <a href="https://andresenlegal.de/dr-jan-eike-andresen/" target="_blank" rel="noopener" itemprop="url">Dr. Jan-Eike Andresen</a>
     </p>
     <h2>Weitere Profile</h2>
     <div class="textblock">
